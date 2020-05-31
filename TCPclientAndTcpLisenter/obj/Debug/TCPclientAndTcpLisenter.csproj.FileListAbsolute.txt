@@ -1,0 +1,10 @@
+D:\work\2020\vs\TCPclientAndTcpLisenter\bin\Debug\TCPclientAndTcpLisenter.exe.config
+D:\work\2020\vs\TCPclientAndTcpLisenter\bin\Debug\TCPclientAndTcpLisenter.exe
+D:\work\2020\vs\TCPclientAndTcpLisenter\bin\Debug\TCPclientAndTcpLisenter.pdb
+D:\work\2020\vs\TCPclientAndTcpLisenter\obj\Debug\TCPclientAndTcpLisenter.csprojAssemblyReference.cache
+D:\work\2020\vs\TCPclientAndTcpLisenter\obj\Debug\TCPclientAndTcpLisenter.Form1.resources
+D:\work\2020\vs\TCPclientAndTcpLisenter\obj\Debug\TCPclientAndTcpLisenter.Properties.Resources.resources
+D:\work\2020\vs\TCPclientAndTcpLisenter\obj\Debug\TCPclientAndTcpLisenter.csproj.GenerateResource.cache
+D:\work\2020\vs\TCPclientAndTcpLisenter\obj\Debug\TCPclientAndTcpLisenter.csproj.CoreCompileInputs.cache
+D:\work\2020\vs\TCPclientAndTcpLisenter\obj\Debug\TCPclientAndTcpLisenter.exe
+D:\work\2020\vs\TCPclientAndTcpLisenter\obj\Debug\TCPclientAndTcpLisenter.pdb
